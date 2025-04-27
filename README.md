@@ -8,7 +8,7 @@
 
 ## 🛠️ Main Skills
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,django,fastapi,ai,nodejs,js, ts,angular,react,nextjs,svelte,html,vite,npm,pnpm,css,sass,tailwind,styledcomponents,materialui,bootstrap,reactivex,figma,svg,arduino,postgres,sqlite,prisma,azure,elasticsearch,mongodb,ansible,powershell,flutter,github,git,latex,matlab,rabbitmq" /><br/>  
+<img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,django,fastapi,ai,nodejs,js,ts,angular,react,nextjs,svelte,html,vite,npm,pnpm,css,sass,tailwind,styledcomponents,materialui,bootstrap,reactivex,figma,svg,arduino,postgres,sqlite,prisma,azure,elasticsearch,mongodb,ansible,powershell,flutter,github,git,latex,matlab,rabbitmq" /><br/>  
 
 ---
 
