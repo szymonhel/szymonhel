@@ -6,25 +6,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Main Skills
 
-- **Frontend:**  
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-- **Backend:**  
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-- **Databases:**  
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-- **Tools & Platforms:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,python,js,php,java,c,r,django,nodejs,react,next,angular,vue,nuxt,spring,laravel,postgresql,mongodb,mysql,redis,aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn,git,github,gitlab,grafana,prometheus,rabbitmq,pytorch,kafka,ai,graphql,flask,fastapi,opencv,regex,tensorflow,sklearn" /><br/>  
 
 ---
 
