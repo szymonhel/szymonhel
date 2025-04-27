@@ -22,7 +22,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/szymon-hełmecki-0a87b1130)
+- 💼 [LinkedIn](www.linkedin.com/in/szymon-hełmecki)
 - 🐦 [Twitter](https://twitter.com/szymonhel)
 
 
