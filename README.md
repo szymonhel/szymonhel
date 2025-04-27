@@ -16,7 +16,7 @@
 
 ![Szymon's GitHub Stats](https://github-readme-stats-git-main-szymonhels-projects.vercel.app/api?username=szymonhel&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-git-main-szymonhels-projects.vercel.app/api/top-langs/?username=szymonhel&layout=compactl)
+![Top Languages](https://github-readme-stats-git-main-szymonhels-projects.vercel.app/api/top-langs/?username=szymonhel&layout=compact)
 
 ---
 
