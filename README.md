@@ -14,10 +14,13 @@
 
 ## 📈 GitHub Stats
 <div style="display: flex; gap: 10px;">
-![Szymon's GitHub Stats](https://github-readme-stats-poa4.vercel.app/api?username=szymonhel&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-poa4.vercel.app//api/top-langs/?username=szymonhel&layout=compact)
+  <img src="https://github-readme-stats-poa4.vercel.app/api?username=szymonhel&show_icons=true&count_private=true" alt="Szymon's GitHub Stats" height="200"/>
+  
+  <img src="https://github-readme-stats-poa4.vercel.app/api/top-langs/?username=szymonhel&layout=compact" alt="Top Languages" height="200"/>
+
 </div>
+
 ---
 
 ## 📫 Let's Connect
