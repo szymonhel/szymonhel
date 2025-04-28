@@ -13,9 +13,9 @@
 ---
 
 ## 📈 GitHub Stats
-<div style="display: flex; gap: 25px">
+<div style="display: flex">
 
-  <img src="https://github-readme-stats-poa4.vercel.app/api?username=szymonhel&show_icons=true&count_private=true" alt="Szymon's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats-poa4.vercel.app/api?username=szymonhel&show_icons=true&count_private=true" alt="Szymon's GitHub Stats" height="200" style="margin-right: 15px"/>
   
   <img src="https://github-readme-stats-poa4.vercel.app/api/top-langs/?username=szymonhel&layout=compact" alt="Top Languages" height="200"/>
 
