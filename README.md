@@ -13,7 +13,7 @@
 ---
 
 ## 📈 GitHub Stats
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 1rem">
 
   <img src="https://github-readme-stats-poa4.vercel.app/api?username=szymonhel&show_icons=true&count_private=true" alt="Szymon's GitHub Stats" height="200"/>
   
