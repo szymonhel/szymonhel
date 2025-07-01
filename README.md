@@ -12,17 +12,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div style="display: flex">
-
-  <img src="https://github-readme-stats-poa4.vercel.app/api?username=szymonhel&show_icons=true&count_private=true&theme=transparent" alt="Szymon's GitHub Stats" height="200" style="margin-right: 15px"/>
-  
-  <img src="https://github-readme-stats-poa4.vercel.app/api/top-langs/?username=szymonhel&layout=compact&theme=transparent" alt="Top Languages" height="200"/>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/szymon-helmecki)
